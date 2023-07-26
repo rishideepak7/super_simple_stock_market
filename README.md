@@ -1,1 +1,1 @@
-# super_simple_stock_market
+Sample Stock Market Emulator.
